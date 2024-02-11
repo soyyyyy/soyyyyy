@@ -1,9 +1,7 @@
-### soyyyyy 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svgurl=https%3A%2F%2Fgithub.com%2Fsoyyyyy&count_bg=%2376819C&title_bg=%23878484&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Hi I'm soyyyyy [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyyyyy&count_bg=%2376819C&title_bg=%23DCD8D8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+soyyyyy's+GitHub!+)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=heade&text=Welcome%20to%20soyyyyy's%20GitHub%20render&fontSize=90)
 
 
 ## 🌱 I’m currently studying ...
@@ -29,8 +27,9 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div><br>
 
+
 ## 📈 Status
-[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bisz&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/soyyyyy/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyyyyy&include_all_commits=true&show_icons=true&theme=cobalt)
 
 
 <!--
