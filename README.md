@@ -1,5 +1,4 @@
-### Hi I'm soyyyyy    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyyyyy&count_bg=%2376819C&title_bg=%23DCD8D8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
+### Hi I'm soyyyyy !!!
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=heade&text=Welcome%20to%20soyyyyy's%20GitHub%20&fontSize=40&fontAlignY=35&fontAlign=50&)
 
