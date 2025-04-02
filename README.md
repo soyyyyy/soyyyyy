@@ -2,6 +2,21 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=heade&text=Welcome%20to%20soyyyyy's%20GitHub%20&fontSize=40&fontAlignY=35&fontAlign=50&)
 
+</div><br><br>
+
+
+## 📈 Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyyyyy&include_all_commits=true&show_icons=true&theme=cobalt)
+
+
+<!--
+## 📞 Contact 
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:herra00783@gmai.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
 
 ## 🌱 I’m currently studying ...
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -27,19 +42,5 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
         
 </div><br><br>
-
-
-## 📈 Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyyyyy&include_all_commits=true&show_icons=true&theme=cobalt)
-
-
-<!--
-## 📞 Contact 
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:herra00783@gmai.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
 -->
     
