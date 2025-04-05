@@ -5,8 +5,9 @@
 </div><br><br>
 
 
-## 📈 Status
+<!--## 📈 Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyyyyy&include_all_commits=true&show_icons=true&theme=cobalt)
+-->
 
 
 <!--
