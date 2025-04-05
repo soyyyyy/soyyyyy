@@ -1,7 +1,6 @@
 ### Hi I'm soyyyyy !!!
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=heade&text=Welcome%20to%20soyyyyy's%20GitHub%20&fontSize=40&fontAlignY=35&fontAlign=50&)
-
 </div>
 
 
