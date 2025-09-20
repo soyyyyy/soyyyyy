@@ -3,6 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=heade&text=Welcome%20to%20soyyyyy's%20GitHub%20&fontSize=40&fontAlignY=35&fontAlign=50&)
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{soyyyyy}?pet-id=1" width="1000" height="120"/>
+</a>
 
 <!--## 📈 Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyyyyy&include_all_commits=true&show_icons=true&theme=cobalt)
